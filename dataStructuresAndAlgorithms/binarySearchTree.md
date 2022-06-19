@@ -7,5 +7,5 @@
 
    ## Answers
 # 1. [7,5,1,8,3,6,0,9,4,2]
-
+ ***Root is 7.***
 ![root=7](https://i.hizliresim.com/8j81ajw.JPG)
